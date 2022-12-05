@@ -45,6 +45,7 @@ Why choose me? 🙋‍♂️
 <p>
 <a href="https://dogpedia-henna.vercel.app">
 <img width="45%" src="./img/image-dogpedia/ladingpage.png">
+<img width="45%" src="./img/image-dogpedia/home.png">
 </a>
 </p>
 
@@ -55,6 +56,7 @@ Why choose me? 🙋‍♂️
 
 <p>
 <a href="https://hostel-project.vercel.app">
+<img width="45%" src="./img/image-hostel/home.png">
 <img width="45%" src="./img/image-hostel/dashbor.png">
 <img width="45%" src="./img/image-hostel/habitaciones.png">
 <img width="45%" src="./img/image-hostel/payment.png">
