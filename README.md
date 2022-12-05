@@ -56,5 +56,9 @@ Why choose me? 🙋‍♂️
 ### Contact 💼
 
 <p align="left">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mgutierrezxred@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="mgutierrezxred@gmail.com" height="28" width="32" /></a><a href="https://www.linkedin.com/in/miguel-gutierrez-6b231521a/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" margin="10"  /></a>
+Correo:
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mgutierrezxred@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="mgutierrezxred@gmail.com" height="28" width="32" /></a>
+<br>
+Linkedin:
+<a href="https://www.linkedin.com/in/miguel-gutierrez-6b231521a/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" margin="10"  /></a>
 </p>
