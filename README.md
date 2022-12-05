@@ -1,4 +1,4 @@
-<img src="./Retropix.gif">
+<img src="./Developer_web.gif">
 
 <h1 align="center">
  Full Stack Developer 
