@@ -56,7 +56,7 @@ Why choose me? 🙋‍♂️
 ### Contact 💼
 
 <p align="left">
-Correo:
+Correo:<br>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mgutierrezxred@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="mgutierrezxred@gmail.com" height="30" width="40" /></a>
 <br>
 Linkedin:
