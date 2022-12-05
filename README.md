@@ -42,6 +42,13 @@ Why choose me? 🙋‍♂️
 <a href="https://dogpedia-henna.vercel.app">🐶 Visit site 🐶</a>
 
 
+<p>
+<a href="https://dogpedia-henna.vercel.app">
+<img width="45%" src="./img/image-dogpedia/ladingpage.png">
+</a>
+</p>
+
+
 <a href="https://github.com/kripto-c/HostelProject">🏢 Hostel Project 🏢</a>
 <br/>
 <a href="https://hostel-project.vercel.app">🏝 Visit site 🏖</a>
