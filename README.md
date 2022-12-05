@@ -1,16 +1,60 @@
-### Hi there 👋
+<img src="./Retropix.gif">
 
-<!--
-**kripto-c/kripto-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+ Full Stack Developer 
+</h1>
 
-Here are some ideas to get you started:
+<p>
+hello! My name is Miguel, I just graduated from Henry
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have always been interested in the world of technology since I was little, since I always had a fascination for video games🕹 and computers💾, the Cybersecurity sector caught my attention, it became a hobby, so I began my studies self-taught As I learned, I became interested in programming. I loved the idea of ​​having infinite possibilities and being able to create what I imagined only with code.
+
+I took Henry's intensive bootcamp📚, to introduce myself to the tech world professionally, so I took the Full Stack Developer career seriously ✍ which was not easy, but I feel proud of what I can do now💪, of the projects you do and the experiences you take
+
+Why choose me? 🙋‍♂️
+♦ I believe that I excel at problem solving, never stop learning, and am able to adapt to different roles on a team as needed.
+</p>
+
+## ✨ Skills ✨
+
+<p>
+<img width="5%" src="./img/icons/javascript.png">
+<img width="5%" src="./img/icons/NodeJs.png">
+<img width="5%" src="./img/icons/React.png">
+<img width="5%" src="./img/icons/Redux.png">
+<img width="5%" src="./img/icons/Git.png">
+<img width="5%" src="./img/icons/mongoosejs.png">
+<img width="5%" src="./img/icons/mongodb.png">
+<img width="5%" src="./img/icons/sequelize.png">
+<img width="5%" src="./img/icons/postgreSQL.png">
+<img width="5%" src="./img/icons/heroku.png">
+<img width="5%" src="./img/icons/vercel.png">
+<img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+<img width="5%" src="./img/icons/webpack.png">
+<img width="5%" src="./img/icons/html-blanco.png">
+<img width="5%" src="./img/icons/css-blanco.png">
+</p>
+
+## ✨ Projects ✨
+
+<a href="https://github.com/kripto-c/Proyecto-individual-29C">🔥 DogPedia 🔥</a>
+<br/>
+<a href="https://dogpedia-henna.vercel.app">🐶 Visit site 🐶</a>
+
+
+<a href="https://github.com/kripto-c/HostelProject">🏢 Hostel Project 🏢</a>
+<br/>
+<a href="https://hostel-project.vercel.app">🏝 Visit site 🏖</a>
+
+
+## ✨ GitHub Stats ✨
+
+<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kripto-c&show_icons=true&theme=dark&locale=en&layout=compact" alt="Miguel Gutierrez" /></p>
+
+<p>&nbsp;<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=kripto-c&show_icons=true&theme=dark&locale=en" alt="Miguel Gutierrez" /></p>
+
+### Contact 💼
+
+<p align="left">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mgutierrezxred@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"  alt="mgutierrezxred@gmail.com" height="28" width="32" /></a><a href="https://www.linkedin.com/in/miguel-gutierrez-6b231521a/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" margin="10"  /></a>
+</p>
