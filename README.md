@@ -46,6 +46,13 @@ Why choose me? 🙋‍♂️
 <br/>
 <a href="https://hostel-project.vercel.app">🏝 Visit site 🏖</a>
 
+<p>
+<a href="https://hostel-project.vercel.app">
+<img width="45%" src="./img/image-hostel/dashbor.png">
+<img width="45%" src="./img/image-hostel/habitaciones.png">
+<img width="45%" src="./img/image-hostel/payment.png">
+</a>
+</p>
 
 ## ✨ GitHub Stats ✨
 
