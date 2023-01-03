@@ -46,6 +46,8 @@ Why choose me? 🙋‍♂️
 <a href="https://dogpedia-henna.vercel.app">
 <img width="45%" src="./img/image-dogpedia/ladingpage.png">
 <img width="45%" src="./img/image-dogpedia/home.png">
+<img width="45%" src="./img/image-dogpedia/cards.png">
+<img width="45%" src="./img/image-dogpedia/form.png">
 </a>
 </p>
 
