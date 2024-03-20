@@ -5,14 +5,16 @@
 </h1>
 
 <p>
-👋 hello! My name is Miguel, I just graduated from Henry
+👋 Hello! I'm Miguel, a Full Stack Web Developer with over a year of experience in a Mexican company. Since an early age, I've been deeply involved in the world of technology, fueled by my passion for video games🕹️ and computers💾. My interest in cybersecurity turned into a hobby, and as I delved deeper, I embarked on a self-taught journey into programming.
 
-I have always been interested in the world of technology since I was little, since I always had a fascination for video games🕹 and computers💾, the Cybersecurity sector caught my attention, it became a hobby, so I began my studies self-taught As I learned, I became interested in programming. I loved the idea of ​​having infinite possibilities and being able to create what I imagined only with code.
+I decided to formalize my passion for coding by joining Henry's intensive bootcamp📚, where I immersed myself in the Full Stack Developer career path. Though the road wasn't easy, I'm proud of the progress I've made and the projects I've worked on during my career.
 
-I took Henry's intensive bootcamp📚, to introduce myself to the tech world professionally, so I took the Full Stack Developer career seriously ✍ which was not easy, but I feel proud of what I can do now💪, of the projects you do and the experiences you take
+What sets me apart? 🙋‍♂️
+♦ My ability to creatively and effectively solve problems, honed through my professional experience.
+♦ My capacity to adapt to different roles within a team, allowing me to contribute effectively to multidisciplinary projects.
+♦ My commitment to continuous learning, keeping me updated on the latest technologies and industry trends.
 
-Why choose me? 🙋‍♂️
-♦ I believe that I excel at problem solving, never stop learning, and am able to adapt to different roles on a team as needed.
+I'm excited about the opportunity to continue growing as a professional and contribute my skills to challenging projects.
 </p>
 
 ## ✨ Skills ✨
