@@ -55,8 +55,9 @@ Fueled By
 
 <h3>E22 Admin</h3>
 
-<p>
 <a href="https://e22.mx">>>> Visit company page <<<</a>
+
+<p>
 <img width="45%" src="./img/E22/login.jpeg">
 <img width="45%" src="./img/E22/home.jpeg">
 <img width="45%" src="./img/E22/darkmode.jpeg">
@@ -71,7 +72,7 @@ Fueled By
 <img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125413.jpeg">
 <img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125211.jpeg">
 <img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125227.jpeg">
-<img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125335.jpeg.jpeg">
+<img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125335.jpeg">
 </p>
 
 <h3>Factos</h3>
