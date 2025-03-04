@@ -1,7 +1,7 @@
 <img src="./Developer_web.gif">
 
 <h1 align="center">
- Full Stack Developer 
+ Full Stack Developer
 </h1>
 
 <p>
@@ -24,6 +24,7 @@ Why Collaborate With Me?
 Fueled By
 🌱 "The best code is written with curiosity" – Thrive in Agile environments pushing tech boundaries
 🎯 Seeking: High-impact projects requiring JS expertise & scalable architecture design
+
 </p>
 
 ## ✨ Skills ✨
@@ -44,36 +45,44 @@ Fueled By
 <img width="5%" src="./img/icons/webpack.png">
 <img width="5%" src="./img/icons/html-blanco.png">
 <img width="5%" src="./img/icons/css-blanco.png">
+<img width="5%" src="./img/icons/tailwindcss.svg">
+<img width="5%" src="./img/icons/expo.svg">
+<img width="5%" src="./img/icons/docker-icon.svg">
+
 </p>
 
 ## ✨ Projects ✨
 
-<a href="https://github.com/kripto-c/Proyecto-individual-29C">🔥 DogPedia 🔥</a>
-<br/>
-<a href="https://dogpedia-henna.vercel.app">🐶 Visit site 🐶</a>
-
+<h3>E22 Admin</h3>
 
 <p>
-<a href="https://dogpedia-henna.vercel.app">
-<img width="45%" src="./img/image-dogpedia/ladingpage.png">
-<img width="45%" src="./img/image-dogpedia/home.png">
-<img width="45%" src="./img/image-dogpedia/cards.png">
-<img width="45%" src="./img/image-dogpedia/form.png">
-</a>
+<a href="https://e22.mx">>>> Visit company page <<<</a>
+<img width="45%" src="./img/E22/login.jpeg">
+<img width="45%" src="./img/E22/home.jpeg">
+<img width="45%" src="./img/E22/darkmode.jpeg">
+<img width="45%" src="./img/E22/Creditos.jpeg.jpeg">
+<img width="45%" src="./img/E22/homeMobile.jpeg">
+<img width="45%" src="./img/E22/delantar.jpeg">
 </p>
 
-
-<a href="https://github.com/kripto-c/HostelProject">🏢 Hostel Project 🏢</a>
+<h3>Mantenimiento SAG </h3>
 <br/>
-<a href="https://hostel-project.vercel.app">🏝 Visit site 🏖</a>
-
 <p>
-<a href="https://hostel-project.vercel.app">
-<img width="45%" src="./img/image-hostel/home.png">
-<img width="45%" src="./img/image-hostel/dashbor.png">
-<img width="45%" src="./img/image-hostel/habitaciones.png">
-<img width="45%" src="./img/image-hostel/payment.png">
-</a>
+<img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125413.jpeg">
+<img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125211.jpeg">
+<img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125227.jpeg">
+<img width="45%" src="./img/Mantenimiento/ScreenShot_20240705125335.jpeg.jpeg">
+</p>
+
+<h3>Factos</h3>
+<br/>
+<p>
+<img width="45%" src="./img/factos/ScreenShot_20240630080135.jpeg">
+<img width="45%" src="./img/factos/ScreenShot_20240630080249.jpeg">
+<img width="45%" src="./img/factos/ScreenShot_20240630080337.jpeg">
+<img width="45%" src="./img/factos/ScreenShot_20240630080803.jpeg">
+<img width="45%" src="./img/factos/ScreenShot_20240630080854.jpeg">
+<img width="45%" src="./img/factos/ScreenShot_20240630081005.jpeg">
 </p>
 
 ## ✨ GitHub Stats ✨
