@@ -55,7 +55,7 @@ Fueled By
 
 <h3>E22 Admin</h3>
 
-<a href="https://e22.mx">💳💸 Visit company page 💸💳</a>
+<a href="https://e22.mx" target="_blank" >💳💸 Visit company page 💸💳</a>
 
 <p>
 <img width="45%" src="./img/E22/login.jpeg">
