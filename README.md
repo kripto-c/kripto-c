@@ -5,16 +5,25 @@
 </h1>
 
 <p>
-👋 Hello! I'm Miguel, a Full Stack Web Developer with over a year of experience in a Mexican company. Since an early age, I've been deeply involved in the world of technology, fueled by my passion for video games🕹️ and computers💾. My interest in cybersecurity turned into a hobby, and as I delved deeper, I embarked on a self-taught journey into programming.
+🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
+1.5+ Years Delivering Scalable Solutions
 
-I decided to formalize my passion for coding by joining Henry's intensive bootcamp📚, where I immersed myself in the Full Stack Developer career path. Though the road wasn't easy, I'm proud of the progress I've made and the projects I've worked on during my career.
+Passionate about technology since childhood, I evolved from gaming mods 🎮 to building secure web systems 🔐. Formalized my self-taught journey through 700+ intensive hours at Henry Bootcamp, mastering modern stacks (React, Node.js, PostgreSQL). Currently driving impact at a Mexican tech firm by:
 
-What sets me apart? 🙋‍♂️
-♦ My ability to creatively and effectively solve problems, honed through my professional experience.
-♦ My capacity to adapt to different roles within a team, allowing me to contribute effectively to multidisciplinary projects.
-♦ My commitment to continuous learning, keeping me updated on the latest technologies and industry trends.
+Spearheading full-cycle development of banking loan management systems used by 500+ clients
 
-I'm excited about the opportunity to continue growing as a professional and contribute my skills to challenging projects.
+Optimizing query speeds by 25% through advanced database indexing
+
+Architecting solutions with React/Redux + Node.js/FeathersJS deployed via Docker
+
+Why Collaborate With Me?
+✅ Creative Problem-Solving: Turn complex requirements into lean code (4.8/5 project evaluations)
+✅ Adaptive Team Player: Successfully pivoted between frontend/backend roles in 3 cross-functional teams
+✅ Continuous Learner: 42% faster onboarding of new tech (GraphQL, Twilio) through structured upskilling
+
+Fueled By
+🌱 "The best code is written with curiosity" – Thrive in Agile environments pushing tech boundaries
+🎯 Seeking: High-impact projects requiring JS expertise & scalable architecture design
 </p>
 
 ## ✨ Skills ✨
