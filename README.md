@@ -88,9 +88,13 @@ Fueled By
 
 ## ✨ GitHub Stats ✨
 
-<p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kripto-c&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true" alt="Miguel Gutierrez" /></p>
+<p><img height="150em" align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=kripto-c&show_icons=true&theme=dark&layout=compact&count_private=true"
+alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=kripto-c&show_icons=true&theme=dark&locale=en&count_private=true" alt="Miguel Gutierrez" /></p>
+<p>&nbsp;<img align="center" height="150em"
+src="https://github-readme-stats.vercel.app/api?username=kripto-c&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+alt="GitHub Stats" /></p>
 
 ### Contact 💼
 
