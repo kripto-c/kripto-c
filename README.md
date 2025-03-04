@@ -55,7 +55,7 @@ Fueled By
 
 <h3>E22 Admin</h3>
 
-<a href="https://e22.mx">>>> Visit company page <<<</a>
+<a href="https://e22.mx">💳💸 Visit company page 💸💳</a>
 
 <p>
 <img width="45%" src="./img/E22/login.jpeg">
@@ -63,7 +63,7 @@ Fueled By
 <img width="45%" src="./img/E22/darkmode.jpeg">
 <img width="45%" src="./img/E22/Creditos.jpeg">
 <img width="45%" src="./img/E22/homeMobile.jpeg">
-<img width="45%" src="./img/E22/delantar.jpeg">
+<img width="45%" src="./img/E22/delantar.png">
 </p>
 
 <h3>Mantenimiento SAG </h3>
