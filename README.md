@@ -61,9 +61,9 @@ Fueled By
 <img width="45%" src="./img/E22/login.jpeg">
 <img width="45%" src="./img/E22/home.jpeg">
 <img width="45%" src="./img/E22/darkmode.jpeg">
-<img width="45%" src="./img/E22/Creditos.jpeg.jpeg">
-<!-- <img width="45%" src="./img/E22/homeMobile.jpeg">
-<img width="45%" src="./img/E22/delantar.jpeg"> -->
+<img width="45%" src="./img/E22/Creditos.jpeg">
+<img width="45%" src="./img/E22/homeMobile.jpeg">
+<img width="45%" src="./img/E22/delantar.jpeg">
 </p>
 
 <h3>Mantenimiento SAG </h3>
