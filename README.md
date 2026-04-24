@@ -20,7 +20,7 @@
     </a>
   </p>
 
-  ![Profile Views](https://komarev.com/ghprofile/?username=kripto-c&label=Profile%20Views&color=46f3e9&style=for-the-badge)
+  ![Profile Views](https://hits.sh/github.com/kripto-c/)
 </div>
 
 ---
