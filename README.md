@@ -1,10 +1,9 @@
 <!-- Banner/Header -->
 <div align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Banner"/>
-
   # 👨‍💻 Miguel Ángel Gutiérrez
-  
   ### Full Stack Developer | React & Node.js Specialist | SaaS Architect
+  
+  Visit my **Portfolio** 🌐 → [portafolio-kripto-c.vercel.app](https://portafolio-kripto-c.vercel.app)
   
   <p>
     <a href="https://portafolio-kripto-c.vercel.app" target="_blank">
@@ -113,6 +112,13 @@
 
 **Tech:** `Node.js` `FeathersJS` `MongoDB` `React` `Redux`
 
+<details>
+<summary>📸 Screenshot</summary>
+
+![Padel-HUB](https://raw.githubusercontent.com/kripto-c/kripto-c/main/img/PadelHub/Login.png)
+
+</details>
+
 ---
 
 ### 💰 Coing - Sistema de Caja de Ahorro y Préstamos | nov. 2025 - ene. 2026
@@ -126,6 +132,13 @@
 
 **Tech:** `Node.js` `FeathersJS` `React` `Redux` `React Native`
 
+<details>
+<summary>📸 Screenshot</summary>
+
+![Coing](https://raw.githubusercontent.com/kripto-c/kripto-c/main/img/Coing/login.png)
+
+</details>
+
 ---
 
 ### 🏢 Servin ERP | jun. 2024 - sept. 2024
@@ -138,6 +151,13 @@
 - CASL granular access control
 
 **Tech:** `React` `Node.js` `FeathersJS` `MongoDB` `Vite`
+
+<details>
+<summary>📸 Screenshot</summary>
+
+![Servin](https://raw.githubusercontent.com/kripto-c/kripto-c/main/img/Servin/Login.jpeg)
+
+</details>
 
 ---
 
@@ -163,6 +183,33 @@
 
 **Tech:** `Node.js` `FeathersJS` `React Native` `STP` `Nufi`
 
+<details>
+<summary>📸 Screenshot</summary>
+
+![e22](https://raw.githubusercontent.com/kripto-c/kripto-c/main/img/E22/login.jpeg)
+
+</details>
+
+---
+
+### 🔧 Mantenimiento V2 | mar. 2023 - oct. 2023
+**Incident management and operational evaluation platform**
+
+- State machine workflow for incident lifecycle
+- Custom status system with financial record association
+- Operational evaluation module with configurable templates
+- Real-time dashboards with performance metrics
+- DigitalOcean Spaces for file storage
+
+**Tech:** `Node.js` `FeathersJS` `React` `MongoDB`
+
+<details>
+<summary>📸 Screenshot</summary>
+
+![Mantenimiento](https://raw.githubusercontent.com/kripto-c/kripto-c/main/img/Mantenimiento/ScreenShot_20240705125413.jpeg)
+
+</details>
+
 ---
 
 ### 🏦 Factos - Plataforma de Factoraje | ene. 2023 - ago. 2023
@@ -174,6 +221,13 @@
 - Multi-company permissions system
 
 **Tech:** `Node.js` `FeathersJS` `React` `MongoDB`
+
+<details>
+<summary>📸 Screenshot</summary>
+
+![Factos](https://raw.githubusercontent.com/kripto-c/kripto-c/main/img/factos/ScreenShot_20240630080135.jpeg)
+
+</details>
 
 ---
 
