@@ -29,9 +29,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kripto-c&show_icons=true&theme=transparent&bg_color=0d1117&title_color=46f3e9&icon_color=46f3e9&text_color=c9d1d9" height="180" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kripto-c&theme=github_dark" height="180" alt="GitHub Stats"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kripto-c&layout=donut&theme=transparent&bg_color=0d1117&title_color=46f3e9&icon_color=46f3e9&text_color=c9d1d9" height="180" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kripto-c&theme=github_dark" height="180" alt="Top Languages"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kripto-c&theme=transparent&background=0d1117&title_color=46f3e9&icon_color=46f3e9&text_color=c9d1d9" alt="Streak Stats"/>
 </div>
