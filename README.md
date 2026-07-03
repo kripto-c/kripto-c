@@ -1,5 +1,6 @@
 <!-- Banner/Header -->
 <div align="center">
+
   # 👨‍💻 Miguel Ángel Gutiérrez
   ### Full Stack Developer | React & Node.js Specialist | SaaS Architect
   
@@ -20,7 +21,7 @@
     </a>
   </p>
 
-  ![Profile Views](https://hits.sh/github.com/kripto-c/)
+  ![Profile Views](https://hits.sh/github.com/kripto-c/kripto-c.svg)
 </div>
 
 ---
